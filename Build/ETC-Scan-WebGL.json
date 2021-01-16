@@ -3,7 +3,7 @@
 "productName": "ETC 5th Floor Scanned",
 "productVersion": "0.1",
 "dataUrl": "ETC-Scan-WebGL.data.unityweb",
-"wasmCodeUrl": "ETC-Scan-WebGL.wasm.code.unityweb",
+"wasmCodeUrl": "ETC-Scan-WebGL.wasm",
 "wasmFrameworkUrl": "ETC-Scan-WebGL.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
